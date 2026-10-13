@@ -7,6 +7,6 @@ To learn, I use the course of Ed Donner. The code files are based on this.
 ## Setup
 
 I used the pyproject.toml and uv.lock files for installing and locking versions.
-I ran "uv sync" to install all the nescesarry python modules.
+I ran "uv sync" to install all the necessary python modules.
 
 # Findings and logbook
